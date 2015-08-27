@@ -9,9 +9,9 @@
 
 雛型截圖
 
-![](https://raw.githubusercontent.com/nobodyyu/GraphicsBed/master/poker01.png =320x568)
+<img src="https://raw.githubusercontent.com/nobodyyu/GraphicsBed/master/poker01.png" width="320">
 
-![](https://raw.githubusercontent.com/nobodyyu/GraphicsBed/master/poker02.png =320x568)
+<img src="https://raw.githubusercontent.com/nobodyyu/GraphicsBed/master/poker02.png" width="320">
 
 
 <br><br>
